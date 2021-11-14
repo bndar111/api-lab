@@ -1,6 +1,8 @@
 import UIKit
 
 var greeting = "Hello, playground"
+
+
 var counter = 0
 var Total = 0
 var num = 1
@@ -15,3 +17,4 @@ print(numOne)
 } while counter <= 9
 Total += numTwo
 print(Total)
+
